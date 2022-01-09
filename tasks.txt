@@ -1,0 +1,12 @@
+--== Button Roll ==--
+  // 1. Generate random dice roll
+  // 2. Display Dice
+  // 3. Check for rolled 1: if true
+  // else: switch to next player
+
+
+--== Button Hold ==--
+  // 1. Add current score to active players score;
+  // 2. Check if players score is >= 100;
+  // if true: Finish game
+  // 3. Switch to next player;
